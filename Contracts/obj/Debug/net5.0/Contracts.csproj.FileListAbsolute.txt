@@ -1,0 +1,15 @@
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\Contracts\bin\Debug\net5.0\Contracts.deps.json
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\Contracts\bin\Debug\net5.0\Contracts.dll
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\Contracts\bin\Debug\net5.0\ref\Contracts.dll
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\Contracts\bin\Debug\net5.0\Contracts.pdb
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\Contracts\obj\Debug\net5.0\Contracts.csprojAssemblyReference.cache
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfo.cs
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\Contracts\obj\Debug\net5.0\Contracts.dll
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\Contracts\obj\Debug\net5.0\ref\Contracts.dll
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\Contracts\obj\Debug\net5.0\Contracts.pdb
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\Contracts\bin\Debug\net5.0\Entities.dll
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\Contracts\bin\Debug\net5.0\Entities.pdb
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\Contracts\obj\Debug\net5.0\Contracts.csproj.CopyComplete

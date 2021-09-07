@@ -1,0 +1,17 @@
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\LoggerService\bin\Debug\net5.0\Contracts.dll
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\LoggerService\obj\Debug\net5.0\LoggerService.csprojAssemblyReference.cache
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\LoggerService\obj\Debug\net5.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfo.cs
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\LoggerService\bin\Debug\net5.0\LoggerService.deps.json
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\LoggerService\bin\Debug\net5.0\LoggerService.dll
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\LoggerService\bin\Debug\net5.0\ref\LoggerService.dll
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\LoggerService\bin\Debug\net5.0\LoggerService.pdb
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\LoggerService\bin\Debug\net5.0\Contracts.pdb
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CopyComplete
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\LoggerService\obj\Debug\net5.0\LoggerService.dll
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\LoggerService\obj\Debug\net5.0\ref\LoggerService.dll
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\LoggerService\obj\Debug\net5.0\LoggerService.pdb
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\LoggerService\bin\Debug\net5.0\Entities.dll
+C:\Users\Claudia\source\APIs\ContosoServer\ContosoServer\LoggerService\bin\Debug\net5.0\Entities.pdb
